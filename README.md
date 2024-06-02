@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @0joseDark
+- 👋 Hi, I’m @0joseDark,I’m darkness Orsini on Second life, and jose on real life
 - 👀 I’m interested in science and biorobotics
 - 🌱 I’m currently learning python and LMs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on :-))
+- 📫 How to reach me ? make an account in second life
 - 😄 Pronouns: ...
 - ⚡ Fun fact: the future is like traveling by train, we can't miss the train
 
