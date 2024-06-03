@@ -2,7 +2,7 @@
 - 👀 I’m interested in science and biorobotics
 - 🌱 I’m currently learning python and LMs
 - 💞️ I’m looking to collaborate on :-))
-- 📫 How to reach me ? make an account in second life
+- 📫 How to reach me ? make an account in second life, or josegrand65@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: the future is like traveling by train, we can't miss the train
 
