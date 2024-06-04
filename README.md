@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0joseDark,I’m darkness Orsini on Second life, and jose on real life
-- -42 years in programming and hardware technician 
+- 42 years in programming and hardware technician 
 - 👀 I’m interested in science and biorobotics
 - 🌱 I’m currently learning python and LMs
 - 💞️ I’m looking to collaborate on :-))
