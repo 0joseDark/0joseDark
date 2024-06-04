@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0joseDark,I’m darkness Orsini on Second life, and jose on real life
 - 42 years in programming and hardware technician 
-- 👀 I’m interested in science and biorobotics
+- 👀 I’m interested in science, biorobotics and industrial archeology
 - 🌱 I’m currently learning python and LMs
 - 💞️ I’m looking to collaborate on :-))
 - 📫 How to reach me ? make an account in second life, or josegrand65@gmail.com
