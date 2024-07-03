@@ -3,7 +3,7 @@
 - 👀 I’m interested in science, biorobotics and industrial archeology
 - 🌱 I’m currently learning python and LMs
 - 💞️ I’m looking to collaborate on :-))
-- 📫 How to reach me ? make an account in second life, or josegrand65@gmail.com ,  https://www.linkedin.com/in/darkness-orsini-731460183/
+- 📫 How to reach me ? make an account in second life, or josegrand65@gmail.com ,  (https://www.linkedin.com/in/darkness-orsini-731460183/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: the future is like traveling by train, we can't miss the train
 
