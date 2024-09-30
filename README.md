@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0joseDark,I’m darkness Orsini on Second life, and jose on real life
 - programming and hardware technician
-- used assembly, qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax
+- used assembly, qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
 - 👀 I’m interested in science, biorobotics and industrial archeology
 - 🌱 I’m currently learning python, LMs and studying a little web designer
 - hello guys, the scripts are raw, as I imagined, sorry by python in Portuguese
