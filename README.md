@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0joseDark,I’m darkness Orsini on Second life, and jose on real life
+- 👋 Hi, I’m jose and darkness Orsini on Second life
 - programming and hardware technician
 - used assembly, qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
 - 👀 I’m interested in science, biorobotics and industrial archeology
