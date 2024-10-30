@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning python, LMs and studying a little web designer
 - hello guys, the scripts are raw, as I imagined, sorry by python in Portuguese
 - 💞️ I’m looking to collaborate on :-))
-- 📫 How to reach me ? make an account in[second life](https://secondlife.com/), or [e-mail](josegrand65@gmail.com), ([LinkedIn](https://www.linkedin.com/in/darkness-orsini-731460183)
+- 📫 How to reach me ? make an account in[second life](https://secondlife.com/), or [e-mail](josegrand65@gmail.com), [LinkedIn](https://www.linkedin.com/in/darkness-orsini-731460183)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: the future is like traveling by train, we can't miss the train
 
