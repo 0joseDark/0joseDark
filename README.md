@@ -3,7 +3,7 @@
 - used assembly, qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
 - 👀 I’m interested in science, biorobotics and industrial archeology
 - 🌱 I’m currently learning python, LMs and studying a little web designer
-- today I discovered another GUI module, customtkinter, cool, Want to know more? read[my python book](https://github.com/0joseDark/my-python-book/blob/main/README.md)
+- today I discovered another GUI module, customtkinter, cool, Want to know more? read [my python book](https://github.com/0joseDark/my-python-book/blob/main/README.md)
 
 - hello guys, the scripts are raw, as I imagined, sorry by python in Portuguese
 - 💞️ I’m looking to collaborate on :-))
