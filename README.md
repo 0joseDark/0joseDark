@@ -3,6 +3,7 @@
 - used assembly, qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
 - 👀 I’m interested in science, biorobotics and industrial archeology
 - 🌱 I’m currently learning python, LMs and studying a little web designer
+- today I discovered another GUI module, customtkinter, cool
 - hello guys, the scripts are raw, as I imagined, sorry by python in Portuguese
 - 💞️ I’m looking to collaborate on :-))
 - 📫 How to reach me ? make an account in[second life](https://secondlife.com/), or [e-mail](josegrand65@gmail.com), [LinkedIn](https://www.linkedin.com/in/darkness-orsini-731460183)
