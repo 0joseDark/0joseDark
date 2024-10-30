@@ -4,7 +4,7 @@
 - 👀 I’m interested in science, biorobotics and industrial archeology
 - 🌱 I’m currently learning python, LMs and studying a little web designer
 - today I discovered another GUI module, customtkinter, cool, Want to know more? read [my python book](https://github.com/0joseDark/my-python-book/blob/main/README.md)
-
+- in my book I only studied the ones in blue, yet
 - hello guys, the scripts are raw, as I imagined, sorry by python in Portuguese
 - 💞️ I’m looking to collaborate on :-))
 - 📫 How to reach me ? make an account in [second life](https://secondlife.com/), or [e-mail](josegrand65@gmail.com), [LinkedIn](https://www.linkedin.com/in/darkness-orsini-731460183)
