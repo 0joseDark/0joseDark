@@ -11,6 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: the future is like traveling by train, we can't miss the train
 
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
 <!---
 0joseDark/0joseDark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
