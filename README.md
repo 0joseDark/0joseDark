@@ -1,8 +1,8 @@
 - 👋 Hi, I’m jose and darkness Orsini on Second life
 - programming and hardware technician :
 ## languages ​​and tools
-- <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/CODIGO-MAQUNA.jpg" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/asm.jpg" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/qbasic.jpg" alt="Descrição" width="50" height="50">
-- used , qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
+<img src="https://github.com/0joseDark/0joseDark/blob/main/assets/CODIGO-MAQUNA.jpg" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/asm.jpg" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/qbasic.jpg" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/c.png" alt="Descrição" width="50" height="50">
+- used, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
 - 👀 I’m interested in science, biorobotics and industrial archeology
 - 🌱 I’m currently learning python, LMs and studying a little web designer
 - today I discovered another GUI module, customtkinter, cool, Want to know more? read [my python book](https://github.com/0joseDark/my-python-book/blob/main/README.md)
