@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jose and darkness Orsini on Second life
-- programming and hardware technician : ![asm programming](https://www.google.com/collections/s/list/XtvhIyU2SQOLSoykkH4TAw/-j1MGR67MPg)
+- programming and hardware technician : ![ASM](https://www.google.com/collections/s/list/XtvhIyU2SQOLSoykkH4TAw/-j1MGR67MPg)
 
 - used , qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
 - 👀 I’m interested in science, biorobotics and industrial archeology
