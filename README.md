@@ -1,6 +1,7 @@
 - 👋 Hi, I’m jose and darkness Orsini on Second life
-- programming and hardware technician
-- used assembly, qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
+- programming and hardware technician : ![asm programming](https://www.google.com/collections/s/list/XtvhIyU2SQOLSoykkH4TAw/-j1MGR67MPg)
+
+- used , qbasic, C, mysql, php, apache, asp, html, css, javascript, xml, ajax, opensim
 - 👀 I’m interested in science, biorobotics and industrial archeology
 - 🌱 I’m currently learning python, LMs and studying a little web designer
 - today I discovered another GUI module, customtkinter, cool, Want to know more? read [my python book](https://github.com/0joseDark/my-python-book/blob/main/README.md)
