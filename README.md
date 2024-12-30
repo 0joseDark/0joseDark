@@ -4,7 +4,7 @@
 - 👀 I’m interested in science, biorobotics and industrial archeology
 - - talents, eyes that deconstruct, whether living animals or machines, I have the dream, to send machines to Mars to build for humans
 - 🌱 I’m currently learning python, LMs and studying a little web designer
-- today I discovered another GUI module, customtkinter, cool, Want to know more? read [my python book](https://github.com/0joseDark/my-python-book/blob/main/README.md)
+- today I discovered another GUI module, customtkinter, cool, Want to know more? read [my python book](https://github.com/0joseDark/my-python-book/blob/main/README.md) and [my AI book](https://github.com/0joseDark/my-AI-book)
 - in my book I only studied the ones in blue, yet
 - hello guys, the scripts are raw, as I imagined, sorry by python in Portuguese
 - 💞️ I’m looking to collaborate on :-))
