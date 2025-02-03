@@ -4,9 +4,6 @@
 - 👀 I’m interested in science, biorobotics and industrial archeology! i am a research scientist! 
 - - I have the [dream](https://github.com/0joseDark/dream/blob/main/en-README.md), to send machines to Mars to build for humans
 - 🌱 I’m currently learning python, LMs and studying a little web designer. I like to read [medium.com](https://medium.com)
-- today I discovered another GUI module, customtkinter, cool, Want to know more? read [my python book](https://github.com/0joseDark/my-python-book/blob/main/README.md) and [my AI book](https://github.com/0joseDark/my-AI-book)
-- in my book I only studied the ones in blue, yet! one third of the python course done, windows, missing ubuntu and AI
-- hello guys, the scripts are raw, as I imagined, sorry by python in Portuguese
 - I intend to create a working group, and then a sandbox to train machines, this in a simulation, I like OpenSim, but we can do ROS, it is already done with a simulator, and act in real life, with a robot, you have VR glasses, you are driving the robot in the sandbox, the idea is to make the bots/robot, here on earth it's fun, all remote of course
 - 💞️ I’m looking to collaborate on :-))
 - 📫 How to reach me ? make an account in [second life](https://secondlife.com/)- nosso simulador tipo vida real, yah, nós pode tumar um café na esplada de um bar e falar com outros.
