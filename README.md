@@ -8,7 +8,7 @@
 - in my book I only studied the ones in blue, yet
 - hello guys, the scripts are raw, as I imagined, sorry by python in Portuguese
 - 💞️ I’m looking to collaborate on :-))
-- 📫 How to reach me ? make an account in [second life](https://secondlife.com/), or [e-mail](josegrand65@gmail.com).
+- 📫 How to reach me ? make an account in [second life](https://secondlife.com/).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: the future is like traveling by train, we can't miss the train
 
