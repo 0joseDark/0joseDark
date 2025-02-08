@@ -9,7 +9,7 @@
 - - I have the [dream](https://github.com/0joseDark/dream/blob/main/en-README.md), to send machines to Mars to build for humans!
   - I have a question, "Does anyone already know how to melt and mold metal, or rock?", this in space?
   - gravity, we can do this, mold metal, hmm we need energy, we have ice on asteroids
-- 🌱 I’m currently learning python, LMs and studying a little web designer. I like to read [medium.com](https://medium.com)
+- 🌱 I’m currently learning python,one done Windows 10. i use jupyter now ,LMs and studying a little web designer. I like to read [medium.com](https://medium.com)
 - I intend to create a working group, and then a sandbox to train machines, this in a simulation, I like OpenSim, but we can do ROS, it is already done with a simulator, and act in real life, with a robot, you have VR glasses, you are driving the robot in the sandbox, the idea is to make the bots/robot, here on earth it's fun, all remote of course
 - 💞️ I’m looking to collaborate on :-)) looking for work of Reverse engineer, programming in windows 10, only
 - 📫 How to reach me ? make an account in [second life](https://secondlife.com/)- nosso simulador tipo vida real, yah, nós pode tumar um café na esplada de um bar e falar com outros.
