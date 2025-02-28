@@ -1,25 +1,32 @@
+```markdown
 ![jose](https://github.com/0joseDark/0joseDark/blob/main/assets/jose.jpg)
-- 👋 Hi, I'm Jose, I like and do tests on programming and hardware," and I'm darkness Orsini on Second life- send me a MI or note
-## languages, tools and skills:
+
+- 👋 Olá, sou o Jose, gosto e faço testes em programação e hardware, e sou Darkness Orsini no Second Life - envia-me uma mensagem instantânea ou nota.
+
+## Linguagens, ferramentas e competências:
 <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/CODIGO-MAQUNA.jpg" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/asm.jpg" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/qbasic.jpg"  alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/Microchip.png" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/c.png" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/cpp.jpg" alt="Descrição" width="50" height="50"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/mysql-logo.svg" alt="MySQL Logo" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/php.svg" alt="php" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/apache-ico.png" alt="apache" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/html.jpg" alt="html" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/css-ico.png" alt="css" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/js-file-icon.png" alt="javascript" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/xml.png" alt="xml" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/Opensimulator_logo200x160.png" alt="opensim" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/arduino.png" width="100" height="100"> <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/raspberry-pi-icon.jpg" alt="raspberry pi" width="100" height="100"> <img src="https://github.com/0joseDark/my-python-book/blob/main/imagens/opensuse.png" alt="opensuse" width="50" height="50"> <img src="https://github.com/0joseDark/my-python-book/blob/main/imagens/ubuntu.png" alt="ubuntu" width="50" height="50"> <img src="https://github.com/0joseDark/my-python-book/blob/main/imagens/windows-10-logo.svg" alt="windows 10" width="50" height="50"> ![Logo Python](https://www.python.org/static/community_logos/python-logo.png)
 
-- 👀 I’m a research scientist! and do (Reverse engineer)
--  . I'm curious, I love discovering how it works, animates or machines
--  . I loved python, and AI, thank you
-- - I have the [dream](https://github.com/0joseDark/dream/blob/main/en-README.md), to send machines to Mars to build for humans!
-  - I have a question, "Does anyone already know how to melt and mold metal, or rock?", this in space?
-  - gravity, we can do this, mold metal, hmm we need energy, we have ice on asteroids
-- 🌱 I’m currently learning python,one done Windows 10. i use jupyter now ,LMs and studying a little web designer. I like to read [medium.com](https://medium.com)
-- I intend to create a working group, and then a sandbox to train machines, this in a simulation, I like OpenSim, but we can do ROS, it is already done with a simulator, and act in real life, with a robot, you have VR glasses, you are driving the robot in the sandbox, the idea is to make the bots/robot, here on earth it's fun, all remote of course
-- 💞️ I’m looking to collaborate on :-)) looking for work of Reverse engineer, programming in windows 10, only
-- 📫 How to reach me ? make an account in [second life](https://secondlife.com/)- our real life type simulator, yah, we can have a coffee on the terrace of a bar and talk to others.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: the future is like traveling by train, we can't miss the train
+- 👀 Sou um cientista investigador! E faço engenharia reversa.
+- Sou curioso, adoro descobrir como as coisas funcionam, se animam ou como as máquinas operam.
+- Adoro Python e inteligência artificial, obrigado.
+- Tenho o [sonho](https://github.com/0joseDark/dream/blob/main/en-README.md) de enviar máquinas para Marte para construir para os humanos!
+  - Tenho uma questão: "Alguém já sabe como derreter e moldar metal ou rocha no espaço?"
+  - Gravidade? Podemos dar um jeito. Moldar metal? Precisamos de energia. Temos gelo nos asteroides!
+
+- 🌱 Atualmente, estou a aprender Python e já finalizei estudos no Windows 10. Uso Jupyter, LMs e estudo um pouco de web design. Gosto de ler no [medium.com](https://medium.com).
+- Pretendo criar um grupo de trabalho e depois um ambiente de simulação para treinar máquinas. Gosto do OpenSim, mas podemos usar ROS, que já tem simulador e pode atuar na vida real com um robô. Tu usas óculos VR e controlas o robô na simulação. A ideia é criar robôs aqui na Terra para nos divertirmos, tudo remotamente, claro.
+
+- 💞️ Estou à procura de colaboração :-)) e de trabalho em engenharia reversa e programação no Windows 10, exclusivamente.
+- 📫 Como entrar em contacto comigo? Cria uma conta no [Second Life](https://secondlife.com/) – o nosso simulador de vida real. Sim, podemos tomar um café no terraço de um bar e conversar com outras pessoas.
+
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: O futuro é como viajar de comboio, não podemos perder o comboio!
 
 <p align="center">
  <img width="1000" src="assets/snake.svg" alt="snake"/>
 </p>
 <!---
-0joseDark/0joseDark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+0joseDark/0joseDark é um repositório ✨ especial ✨ porque o seu `README.md` aparece no teu perfil do GitHub.
+Podes clicar no link de pré-visualização para ver as tuas alterações.
 --->
+```
