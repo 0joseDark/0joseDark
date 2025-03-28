@@ -7,7 +7,7 @@
 - 👀 Sou cientista pesquisador e atuo com engenharia reversa.
 - Sou curioso, adoro descobrir como tudo funciona, como as máquinas ganham vida ou se movimentam.
 - Eu amo Python e IA, obrigado.
-  - Tenho o [sonho](https://github.com/0joseDark/dream/blob/main/en-README.md) de enviar máquinas para Marte para construir para os humanos!
+  - Tenho o [sonho](https://github.com/0joseDark/dream-sonho/blob/main/README.md) de enviar máquinas para Marte para construir para os humanos!
     - Tenho uma pergunta: "Alguém já sabe como derreter e moldar metal ou rocha?", isto no espaço?
     - Gravidade, podemos fazer isso: moldar metal... hum, precisamos de energia, temos gelo nos asteroides.
 - 🌱 Atualmente estou aprendendo Python no Windows 10. Uso o Jupyter, LMs e estudo um pouco de web design. Gosto de ler [medium.com](https://medium.com).
