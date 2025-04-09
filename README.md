@@ -7,7 +7,7 @@
 - 👀 I’m a research scientist! and do (Reverse engineer)
 -  . I'm curious, I love discovering how it works, animates or machines
 -  . I loved python, and AI, thank you
-- - I have the [dream](https://github.com/0joseDark/dream/blob/main/en-README.md), to send machines to Mars to build for humans!
+- - I have the [dream](https://github.com/0joseDark/dream/blob/main/doc-en/en-README.md), to send machines to Mars to build for humans!
   - I have a question, "Does anyone already know how to melt and mold metal, or rock?", this in space?
   - gravity, we can do this, mold metal, hmm we need energy, we have ice on asteroids
 - 🌱 I’m currently learning python,one done Windows 10. i use jupyter now ,LMs and studying a little web designer. I like to read [medium.com](https://medium.com)
