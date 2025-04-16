@@ -8,8 +8,7 @@
 - Sou curioso, adoro descobrir como tudo funciona, como as máquinas ganham vida ou se movimentam.
 - Eu amo Python e IA, obrigado.
   - Tenho o [sonho](https://github.com/0joseDark/dream-sonho/blob/main/README.md) de enviar máquinas para Marte para construir para os humanos!
-    - Tenho uma pergunta: "Alguém já sabe como derreter e moldar metal ou rocha?", isto no espaço?
-    - Gravidade, podemos fazer isso: moldar metal... hum, precisamos de energia, temos gelo nos asteroides.
+    - Sou um fazedor, um scripter e sonhador.
 - 🌱 Atualmente estou aprendendo Python no Windows 10. Uso o Jupyter, LMs e estudo um pouco de web design. Gosto de ler [medium.com](https://medium.com).
 - Pretendo criar um grupo de trabalho e, em seguida, uma sandbox para treinar máquinas, isto em uma simulação. Gosto do OpenSim, mas também podemos usar o ROS; ele já foi implementado com um simulador e pode atuar na vida real com um robô. Você usaria óculos de realidade virtual para controlar o robô na sandbox. A ideia é desenvolver bots/robôs; aqui na Terra é divertido, tudo de forma remota, é claro.
 - 💞️ Estou procurando colaborar em projetos de engenharia reversa e programação em Windows 10, exclusivamente.
