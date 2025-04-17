@@ -6,7 +6,7 @@
 
 - 👀 I’m a research scientist! and do (Reverse engineer)
 -  . I'm curious, I love discovering how it works, animates or machines
--  omg I'm a Híbrido AI Bot/Robot lol
+-  omg I'm a Híbrido AI Bot/Robot lol [my youtube](https://www.youtube.com/@jose33206)
 -  . I loved python, and AI, thank you
 - - I have the [dream](https://github.com/0joseDark/dream/blob/main/doc-en/en-README.md), to send machines to Mars to build for humans! [Sponsorship Reques](https://github.com/0joseDark/0joseDark/blob/main/doc-en/Sponsorship-Request.md)
  - I'm a maker, a scripter, and a dreamer
