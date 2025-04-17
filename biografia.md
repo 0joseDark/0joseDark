@@ -5,7 +5,7 @@
 - não consigo parar, estou sempre estudando algo!
 
 - minha paixão é a biologia e ciencias!
-- meus certificados estão em Marte!
+- meus certificados estão em Marte! a chuva destruiu meus decumentos.
 - comocei muito cedo a estudar os seres vivos, animais e plantas!
 - descubri que os ceres vivos era como maquinas perfeitas.
 
