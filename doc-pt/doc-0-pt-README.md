@@ -15,7 +15,7 @@ O objetivo principal é criar um **protótipo funcional baseado em plataformas o
 - Transmissão de dados via Wi-Fi ou LoRa
 - Manipulação de pequenos objetos com braço robótico
 
-Encontro-me na fase de aquisição de componentes, e para avançar com os testes de integração e desenvolvimento do firmware, necessito de apoio financeiro 00€ euros ou dólares apara aquisição de hardware (microcontroladores, motores, baterias, sensores, estrutura modular e periféricos).
+Encontro-me na fase de aquisição de componentes, e para avançar com os testes de integração e desenvolvimento do firmware, necessito de apoio financeiro para aquisição de hardware (microcontroladores, motores, baterias, sensores, estrutura modular e periféricos).
 
 Estou totalmente disponível para apresentar documentação técnica detalhada, protótipos e relatórios de progresso. Todos os patrocinadores serão referenciados no material de divulgação científica, relatórios públicos e apresentações, com visibilidade online (GitHub, YouTube, second life, etc.).
 
