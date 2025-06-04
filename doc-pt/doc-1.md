@@ -14,5 +14,11 @@
 - vou ver as ideias, e fazer por mim mesmo, sem copiar, claro usando farramentas.
 - temos o **opensim** instalado no **raspberry pi**
 ## lista de hardware:
+# preciso de ajuda
+- necessário:
+- um  computador
 - tv ou monitor
-- Raspberry pi 5 B+
+- um Raspberry pi Bx 16G ram
+- um coller  para  Raspberry pi
+- uma camara
+- necessaro para continuar meu estudo de python e LLMs.
