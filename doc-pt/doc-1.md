@@ -18,7 +18,7 @@
 - necessário:
 - um  computador
 - tv ou monitor
-- um Raspberry pi Bx 16G ram
+- um Raspberry pi 5 B+ 16G
 - um coller  para  Raspberry pi
 - uma camara
 - necessaro para continuar meu estudo de python e LLMs.
