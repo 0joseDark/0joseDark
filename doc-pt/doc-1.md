@@ -12,4 +12,7 @@
 - Eu conhecia o progeto **ROS**
 - e vi que o **opensim** é um otimo **simulador**, nem fiz o **ROS**, edorei a ideia, vou fazer um **AI-bot/robot**
 - vou ver as ideias, e fazer por mim mesmo, sem copiar, claro usando farramentas.
-- temos o **oensim** instalado no **raspberry pi**
+- temos o **opensim** instalado no **raspberry pi**
+## lista de hardware:
+- tv ou monitor
+- Raspberry pi 5 B+
