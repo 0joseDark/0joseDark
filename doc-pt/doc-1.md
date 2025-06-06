@@ -17,8 +17,9 @@
 # preciso de ajuda
 - necessário:
 - um  computador
-- UMA CAEARA
+- UMA CAMERA PARA Raspberry PI 
 - tv ou monitor
+- - VGA REQUER ADAPATADOR HDME
 - um Raspberry pi 5 B+ 16G
 - um coller  para  Raspberry pi
 # é o mesmo:  
