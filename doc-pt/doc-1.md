@@ -20,5 +20,68 @@
 - tv ou monitor
 - um Raspberry pi 5 B+ 16G
 - um coller  para  Raspberry pi
+# é o mesmo:  (Raspberr  pi AI kit = Raspberry pi HAT*)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+)
 - uma camara
 - necessaro para continuar meu estudo de python e LLMs.
