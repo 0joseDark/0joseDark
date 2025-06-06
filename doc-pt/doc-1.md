@@ -17,6 +17,7 @@
 # preciso de ajuda
 - necessário:
 - um  computador
+- UMA CAEARA
 - tv ou monitor
 - um Raspberry pi 5 B+ 16G
 - um coller  para  Raspberry pi
