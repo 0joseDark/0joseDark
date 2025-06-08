@@ -23,6 +23,6 @@
 - um Raspberry pi 5 B+ 16G
 - um coller  para  Raspberry pi
 # é o mesmo:  
-- RaspberrY  pi AI kit e Raspberry pi HAT*
+- RaspberrY  pi AI kit <=> Raspberry pi HAT*
  
 - necessaro para continuar meu estudo de python e LLMs.
