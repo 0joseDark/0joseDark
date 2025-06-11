@@ -17,16 +17,16 @@
 # preciso de ajuda
 - necessário:
 - um  computador
-- - __motherboard__
+- - __motherboard❌__
   - __CPU ✅__ __AMD__
   - __GPU ✅ NVIDIA 329,90 €__
-- UMA __CAMERA__ PARA Raspberry PI 
+- UMA __CAMERA❌__ PARA Raspberry PI 
 - __tv__ ou __monitor__
 - - __VGA__ REQUER __ADAPATADOR HDMI✅__
-- um __Raspberry pi 5 B+ 16G__
-- um __coller__  para  Raspberry pi
+- um __Raspberry pi 5 B+ 16G❌__
+- um __coller❌__  para  Raspberry pi
 # é o mesmo:  
-- __RaspberrY  pi AI kit__ <=> __Raspberry pi HAT*__
+- __RaspberrY  pi AI kit__ <=> __Raspberry pi HAT*__ ❌
 --- 
  - necessaro para continuar meu estudo de python e LLMs.
 - ✅ Tenho o documento
