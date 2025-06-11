@@ -17,7 +17,7 @@
 # preciso de ajuda
 - necessário:
 - um  computador
-- - motherboard for CPU AMD
+- - __motherboard__ for __CPU__ __AMD__ and __GPU NVIDIA__
 - UMA CAMERA PARA Raspberry PI 
 - tv ou monitor
 - - VGA REQUER ADAPATADOR HDMI
