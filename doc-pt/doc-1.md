@@ -32,4 +32,7 @@
 - ✅ Tenho o documento
 - ✔️ Tenho os módulos instalados
 - 🗸 Tenho o software
+- ❌ Em falta
+- 🔲 Por fazer
+- ☐ Ainda não feito
 
