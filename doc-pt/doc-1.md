@@ -25,7 +25,6 @@
 - - __VGA__ REQUER __ADAPATADOR HDMI✅__
 - um __Raspberry pi 5 B+ 16G❌__
 - um __coller❌__  para  Raspberry pi
-# é o mesmo:  
 - __RaspberrY  pi AI kit__ <=> __Raspberry pi HAT*__ ❌
 --- 
  - necessaro para continuar meu estudo de python e LLMs.
