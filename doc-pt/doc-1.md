@@ -7,7 +7,7 @@
 - Mais tarde, aprofundei os meus estudos na área de **servidores** e, em 2007, descobri o mundo virtual **Second Life**. 
 - Foi aí que conheci também a sua versão gratuita e de código aberto, o **OpenSim**.
 
-- Instalei o OpenSim no meu próprio computador e, em **2009**, criei a minha própria **grid**. 
+- Instalei o __OpenSim__ no meu próprio computador e, em **2009**, criei a minha própria **grid**. 
 - Durante **quatro anos**, também estive presente e ativo na comunidade da **OSgrid**, explorando e desenvolvendo conteúdos nesse mundo virtual.
 - Eu conhecia o progeto **ROS**
 - e vi que o **opensim** é um otimo **simulador**, nem fiz o **ROS**, edorei a ideia, vou fazer um **AI-bot/robot**
@@ -18,12 +18,12 @@
 - necessário:
 - um  computador
 - - __motherboard__ for __CPU__ __AMD__ and __GPU NVIDIA__
-- UMA CAMERA PARA Raspberry PI 
-- tv ou monitor
-- - VGA REQUER ADAPATADOR HDMI
-- um Raspberry pi 5 B+ 16G
-- um coller  para  Raspberry pi
+- UMA __CAMERA__ PARA Raspberry PI 
+- __tv__ ou __monitor__
+- - __VGA__ REQUER __ADAPATADOR HDMI__
+- um __Raspberry pi 5 B+ 16G__
+- um __coller__  para  Raspberry pi
 # é o mesmo:  
-- RaspberrY  pi AI kit <=> Raspberry pi HAT*
- 
-- necessaro para continuar meu estudo de python e LLMs.
+- __RaspberrY  pi AI kit__ <=> __Raspberry pi HAT*__
+--- 
+ - necessaro para continuar meu estudo de python e LLMs.
