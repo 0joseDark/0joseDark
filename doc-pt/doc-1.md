@@ -16,6 +16,7 @@
 ## lista de hardware:
 # preciso de ajuda
 - necessário:
+- - motherboard for CPU AMD
 - um  computador
 - UMA CAMERA PARA Raspberry PI 
 - tv ou monitor
