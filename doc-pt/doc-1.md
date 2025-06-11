@@ -17,11 +17,12 @@
 # preciso de ajuda
 - necessário:
 - um  computador
-- - __motherboard__ for __CPU ✅__ __AMD__
-  - __GPU✅ NVIDIA 329,90 €__
+- - __motherboard__
+  - __CPU ✅__ __AMD__
+  - __GPU ✅ NVIDIA 329,90 €__
 - UMA __CAMERA__ PARA Raspberry PI 
 - __tv__ ou __monitor__
-- - __VGA__ REQUER __ADAPATADOR HDMI__
+- - __VGA__ REQUER __ADAPATADOR HDMI✅__
 - um __Raspberry pi 5 B+ 16G__
 - um __coller__  para  Raspberry pi
 # é o mesmo:  
