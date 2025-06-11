@@ -21,7 +21,7 @@
   - __CPU ✅__ __AMD__
   - __GPU ✅ NVIDIA 329,90 €__
 - UMA __CAMERA❌__ PARA Raspberry PI 
-- __tv__ ou __monitor__
+- __tv❌__ ou __monitor__
 - - __VGA__ REQUER __ADAPATADOR HDMI✅__
 - um __Raspberry pi 5 B+ 16G❌__
 - um __coller❌__  para  Raspberry pi
