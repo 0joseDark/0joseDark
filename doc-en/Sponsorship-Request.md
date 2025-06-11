@@ -23,7 +23,20 @@ Thank you in advance for your time and consideration in supporting this innovati
 
 Kind regards,  
 **José Raposo** 
-- 🔗 [GitHub](https://github.com/0joseDark) 
+- 🔗 [GitHub](https://github.com/0joseDark)
+# need help
+- required:
+- a computer
+- - __motherboard❌__
+- - __CPU ✅__ __AMD__
+- - __GPU ✅ NVIDIA R$ 329.90__
+- __CAMERA❌__ FOR Raspberry PI
+- __tv❌__ or __monitor__
+- - __VGA__ REQUIRES __HDMI ADAPTER✅__
+- a __Raspberry pi 5 B+ 16G❌__
+- a __coller❌__ for Raspberry pi
+- __RaspberrY pi AI kit__ <=> __Raspberry pi HAT*__ ❌
+---
 
 
 
