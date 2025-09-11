@@ -1,4 +1,5 @@
-[portfolio](https://github.com/0joseDark/portfolio) 
+-[portfolio](https://github.com/0joseDark/portfolio) 
+-
 ![jose](https://github.com/0joseDark/0joseDark/blob/main/assets/my-foto-ChatGPT.jpg)
 - [portugues](https://github.com/0joseDark/0joseDark/blob/main/doc-pt/pt-README.md)
 - 👋 Hi, I'm Jose, I like and do tests on programming and hardware," and I'm darkness Orsini on Second life- send me a MI or note
