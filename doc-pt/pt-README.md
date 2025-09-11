@@ -1,3 +1,4 @@
+[portfolio](https://github.com/0joseDark/portfolio) 
 ![jose](https://github.com/0joseDark/0joseDark/blob/main/assets/jose.jpg)
 - [English](https://github.com/0joseDark/0joseDark/blob/main/README.md)
 - 👋 Olá, eu sou o Jose, gosto e realizo testes em programação e hardware, e sou o Darkness Orsini no Second Life – me envie um MI ou uma mensagem.
