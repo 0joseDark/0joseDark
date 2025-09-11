@@ -36,14 +36,3 @@ Always curious, always hacking, always learning. 🧩
 
 ---
 
-✨ *“Code is poetry, and hardware is the canvas.”*  
-```
-
-This README highlights:
-
-* **Your skills & tech stack**
-* **Biggest projects you’ve built (from our past chats!)**
-* **Dynamic GitHub stats** (auto-updates)
-* **A touch of personality with a tagline**
-
-Would you like me to also design a **dark-themed ASCII banner logo** (e.g. `0joseDark`) at the top of the README so it feels even more personal?
