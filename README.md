@@ -35,11 +35,7 @@ Always curious, always hacking, always learning. 🧩
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0joseDark&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0joseDark&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=0joseDark&theme=radical&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0joseDark&theme=radical)
 
 ---
 
