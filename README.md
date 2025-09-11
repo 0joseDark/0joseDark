@@ -1,4 +1,4 @@
-# 👋 Hey, I’m **José Dark** __darkness Orsini__ in secondlife. sugar baren in osgrid
+# 👋 Hey, I’m **José Dark** __darkness Orsini__ in https://secondlife.com/. sugar baren in https://www.osgrid.org/
 
 Welcome to my digital workshop! 🚀  
 I’m a developer passionate about **Python, C/C++, Assembly, Robotics, and Embedded Systems**, building everything from **desktop apps** to **low-level projects** with **Arduino, Raspberry Pi, and Qt**.  
