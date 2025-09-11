@@ -33,8 +33,6 @@ Always curious, always hacking, always learning. 🧩
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0joseDark&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0joseDark&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=0joseDark&theme=radical&hide_border=true)
 
 ---
