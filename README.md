@@ -1,7 +1,3 @@
-[Texto do link](https://github.com/0joseDark/portfolio)
-[)
-[Texto do link](https://www.exemplo.com)
-
 # 👋 Hey, I’m **José Dark** 
 - __darkness Orsini__ in https://secondlife.com/. sugar baren in https://www.osgrid.org/
 
