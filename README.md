@@ -42,6 +42,32 @@
 ![VLC](https://img.shields.io/badge/VLC%20Player-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
+## 🛠️ Languages, Tools and Skills:
+
+<p align="center">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/CODIGO-MAQUNA.jpg" alt="Código Máquina" width="50" height="50">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/asm.jpg" alt="Assembly" width="50" height="50">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/qbasic.jpg" alt="QBasic" width="50" height="50">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/Microchip.png" alt="Microchip" width="50" height="50">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/c.png" alt="C" width="50" height="50">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/cpp.jpg" alt="C++" width="50" height="50">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/mysql-logo.svg" alt="MySQL Logo" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/php.svg" alt="PHP" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/apache-ico.png" alt="Apache" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/html.jpg" alt="HTML" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/css-ico.png" alt="CSS" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/js-file-icon.png" alt="JavaScript" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/xml.png" alt="XML" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/Opensimulator_logo200x160.png" alt="OpenSim" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/arduino.png" alt="Arduino" width="100" height="100">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/raspberry-pi-icon.jpg" alt="Raspberry Pi" width="100" height="100">
+  <img src="https://github.com/0joseDark/my-python-book/blob/main/imagens/opensuse.png" alt="OpenSUSE" width="50" height="50">
+  <img src="https://github.com/0joseDark/my-python-book/blob/main/imagens/ubuntu.png" alt="Ubuntu" width="50" height="50">
+  <img src="https://github.com/0joseDark/my-python-book/blob/main/imagens/windows-10-logo.svg" alt="Windows 10" width="50" height="50">
+  <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/markdown-ico-1.png" alt="Markdown" width="50" height="50">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="120" height="40">
+</p>
 
 ---
 
