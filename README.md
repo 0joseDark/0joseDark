@@ -26,7 +26,7 @@
 - ![GitHub Streak](https://streak-stats.demolab.com?user=0joseDark&theme=radical&hide_border=true)
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Languages, Tools and Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,7 +40,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ---
-## 🛠️ Languages, Tools and Skills:
 
 <p align="center">
   <img src="https://github.com/0joseDark/0joseDark/blob/main/assets/CODIGO-MAQUNA.jpg" alt="Código Máquina" width="50" height="50">
